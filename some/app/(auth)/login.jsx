@@ -1,5 +1,5 @@
 import { SafeAreaView } from "react-native-safe-area-context"
-import { Text, View } from "react-native"
+import { Text, View , StyleSheet} from "react-native"
 import authStyles from "./styles"
 
 
